@@ -74,7 +74,7 @@ function Deck({
 							className="btn btn-danger float-end"
 							id={deckId}
 							onClick={handleDeleteDeck}>
-							<i className="bi bi-trash3" id={deckId}></i>
+							<i className="bi bi-trash3" id={deckId}></i> Delete
 						</button>
 					</div>
 				</div>
